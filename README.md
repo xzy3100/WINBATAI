@@ -39,7 +39,7 @@ Unlike traditional AI frameworks that require complex dependencies, HOTSPOT runs
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/HOTSPOT-Autonomous-Hive.git
+git clone https://github.com/xzy3100/WINBATAI/HOTSPOT-Autonomous-Hive.git
 cd HOTSPOT-Autonomous-Hive
 ```
 
@@ -220,7 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **🚀 Ready to build your autonomous AI company? Get started today!**
 
 ```bash
-git clone https://github.com/yourusername/HOTSPOT-Autonomous-Hive.git
+git clone https://github.com/xzy3100/WINBATAI/HOTSPOT-Autonomous-Hive.git
 cd HOTSPOT-Autonomous-Hive/src
 HOTSPOT_AUTONOMOUS_HIVE.bat
 ```
