@@ -1,0 +1,16 @@
+﻿{
+    "WeightUpdates":  null,
+    "LossHistory":  null,
+    "Dimensions":  64,
+    "Version":  "1.0.0",
+    "FinalLoss":  0,
+    "Timestamp":  {
+                      "value":  "\/Date(1751549563316)\/",
+                      "DisplayHint":  2,
+                      "DateTime":  "July 3, 2025 9:32:43 AM"
+                  },
+    "AccuracyHistory":  null,
+    "FinalAccuracy":  0,
+    "DatasetSize":  1000,
+    "ConvergenceRate":  null
+}
