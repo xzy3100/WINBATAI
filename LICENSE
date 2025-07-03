@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 LocalZero - HOTSPOT AI Training System
+Copyright (c) 2025 LOCALZERO
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,26 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-===============================================================================
-
-ADDITIONAL NOTICES:
-
-HOTSPOT (Higher-dimensional Optimized Training System and Platform for Operational Tasks)
-is a revolutionary AI training system built entirely with Windows batch files and PowerShell.
-
-This license grants you the right to:
-✅ Use HOTSPOT in commercial products and services
-✅ Modify and adapt the system for your specific needs
-✅ Distribute and share with proper attribution
-✅ Use internally within your organization
-✅ Patent protection from claims by contributors
-
-No warranty is provided. The software is provided "as is" without any guarantees
-of performance, accuracy, or suitability for any particular purpose.
-
-For enterprise support and commercial licensing inquiries:
-📧 enterprise@localzero.dev
-🌐 https://localzero.dev
-
-===============================================================================
